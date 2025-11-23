@@ -8,10 +8,10 @@
 
 
 **ordered lists**
-overall performance
-best student
-best in maths
-best in General Sci
+* overall performance
+* best student
+* best in maths
+* best in General Sci
 
 
 
